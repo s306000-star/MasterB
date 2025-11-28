@@ -1,14 +1,12 @@
-# متطلبات الموقع (Flask)
-Flask==3.0.3
-gunicorn==23.0.0
-Werkzeug==3.0.4
-Jinja2==3.1.4
-MarkupSafe==2.1.5
-itsdangerous==2.2.0
-click==8.1.7
-blinker==1.8.2
 
-# متطلبات البوت (Telegram)
+Flask==3.0.0
+Flask-Cors==4.0.0
+SQLAlchemy==2.0.23
+gunicorn==21.2.0
+Werkzeug==3.0.1
+Jinja2==3.1.2
+click==8.1.7
+
 python-telegram-bot==22.2
 fpdf2==2.8.3
 Pillow==11.3.0
